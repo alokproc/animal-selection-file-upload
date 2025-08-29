@@ -1,0 +1,8 @@
+# Python / Flask ignores
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+.DS_Store
